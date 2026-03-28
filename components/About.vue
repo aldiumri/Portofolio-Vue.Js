@@ -1,0 +1,24 @@
+<script setup>
+
+</script>
+
+<template>
+<h1>About Me</h1> <hr>
+<div class="artikel1">
+        <img src="">
+    <p id="text">Saya adalah lulusan Teknik Informatika tahun 2022 yang memiliki ketertarikan dan pengalaman di bidang produksi visual, khususnya sebagai cameraman. Pengalaman saya bermula saat bekerja di bagian studio TV Batam, di mana saya berkesempatan membantu tugas kameramen dalam berbagai kebutuhan produksi. Dari sana, saya mengembangkan kemampuan dalam pengoperasian kamera, memahami teknik pengambilan gambar, serta menerapkan angle dan komposisi yang tepat untuk kebutuhan foto maupun video.
+
+        Selain memiliki minat di bidang visual, saat ini saya juga sedang mendalami dunia pemrograman untuk memperluas keahlian saya di bidang teknologi. Saya fokus mempelajari JavaScript secara lebih mendalam sebagai langkah untuk menekuni dunia coding dan pengembangan web. Proses belajar ini menjadi bukti bahwa saya adalah pribadi yang memiliki semangat belajar tinggi, mudah beradaptasi, dan siap menghadapi tantangan baru.
+        
+        Saya dikenal sebagai individu yang cepat tanggap, cekatan, disiplin, serta mampu bekerja secara mandiri maupun dalam tim. Dengan latar belakang teknis dan pengalaman kreatif yang saya miliki, saya siap terus berkembang dan memberikan kontribusi terbaik di setiap kesempatan yang ada.</p>
+    </div>
+</template>
+
+<style scoped>
+p{
+    font-size: 18px;
+    display: flex;
+    text-align: left;
+    
+}
+</style>
